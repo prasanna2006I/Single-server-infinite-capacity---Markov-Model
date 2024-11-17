@@ -22,6 +22,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+![Uploading image.png…]()
 
  
 ## Program
